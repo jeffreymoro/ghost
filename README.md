@@ -1,12 +1,9 @@
-GHOST(.DETRITUS.WEBSITE)
+(DETRITUS.WEBSITE/)GHOST
 ===========
 
-A small piece of hacked-together garbage that I made a few months ago. Originally sitting at http://detritus.website/ghost, am porting it to GitHub Pages to
+A small piece of hacked-together garbage that I made a few months ago. 
 
-1. Learn how to use GitHub Pages and
-2. Make it easier for my to make it less garbage, ex. I think it's jQuery right now but it might still be PHP, let's find out together!
-
-Will also be sitting at http://ghost.detritus.website b/c subdomains.
+Started at detritus.website/ghost, moved to ghost.detritus.website to teach myself GitHub Pages—and now headed back to detritus.website/ghost along with all the other silly things there.
 
 OH RIGHT WHAT IS IT
 ===========
